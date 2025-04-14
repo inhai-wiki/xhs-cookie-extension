@@ -1,6 +1,8 @@
 # 小红书Cookie获取器 Chrome扩展
 
 一个简洁、美观的Chrome扩展，用于获取小红书网站的cookie信息，便于开发与学习。扩展采用Apple风格UI设计，支持亮色/暗色主题，拥有可拖拽功能。
+![image](https://github.com/user-attachments/assets/67e7bb5c-62c9-470c-b4f3-20522f706632)
+
 
 ## 演示视频
 
